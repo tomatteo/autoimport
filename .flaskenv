@@ -1,0 +1,2 @@
+FLASK_APP=autoimport.py
+FLASK_ENV=development
